@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "00. licenta")(type "KiCad")(uri "${KIPRJMOD}/00. licenta.kicad_sym")(options "")(descr ""))
-  (lib (name "DFR0654")(type "KiCad")(uri "D:/UTCN/Licenta/KiCad/comp/DFR0654.kicad_sym")(options "")(descr ""))
-)
